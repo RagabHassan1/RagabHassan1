@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RagabHassan
+- 👋 Hi, I’m Ragab Hassan, I'm a senior year student in the faculty of Computers and data science at Alexandria University.
 - 👀 I’m interested in AI, data science and Mathematics.
 - 💞️ I’m looking to collaborate on real-world projects to introduce new innovative solutions. 
 - 📫 you can reach me through my [Gmail](ragabhassan716@gmail.com). 
